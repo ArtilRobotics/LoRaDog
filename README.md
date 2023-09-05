@@ -1,7 +1,7 @@
 # LoRaDog
 ## Descripción
 Localizador de perro, utilizando un transmisor y recepctor comunicados por LoRa. Dentro del repositorio se encuentra el código para los 2 módulos.
-
+![Sensor](https://github.com/ArtilRobotics/LoRaDog/blob/main/imagenes/Collage_1.png)
 ## Prueba
 El dispositivo receptor dispone de una pantalla OLED, la cual muestra la latitud y longitud del transmisor. Esta posición obtenida en el receptor se la ingresó en google maps para verificar la posición obtenida.
 ### Posición 1
